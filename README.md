@@ -39,6 +39,7 @@ A mini project that allows you to create, view, and search bank accounts. Data i
 - Create accounts with name, number, and balance
 - View all accounts
 - Search account by account number
+- Data stored in `accounts.txt`
 
 **Concepts Used:**  
 `Object-Oriented Programming`, `File I/O`, `Vectors`, `String Parsing`, `Error Handling`
@@ -49,6 +50,27 @@ A mini project that allows you to create, view, and search bank accounts. Data i
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/C-Projects.git
-   cd C-Projects
+   git clone https://github.com/your-username/Cpp-Projects.git
+   cd Cpp-Projects
+2. Open any .cpp file in your favorite C++ compiler or IDE(e.g., Code::Blocks, Visual Studio, or VS Code).
+3. Compile and run using terminal:
+   ```bash
+   g++ filename.cpp -o output./output
+Replace filename.cpp with the actual file name (e.g., calculator.cpp).
 
+---
+
+## 📚 Ideal For
+- Beginners learning C++  
+- Practicing OOP and file handling  
+- Academic mini projects or assignments  
+
+## 🙌 Contributions
+Feel free to fork the repository and contribute!  
+You can improve existing programs, fix bugs, or add new beginner-friendly C++ projects.
+
+## 📩 Contact
+**G.G. Surya**  
+📧 Email: ggsuryaff@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/g-g-surya-5aa9312b4)  
+🔗 [GitHub](https://github.com/ggsurya)

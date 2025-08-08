@@ -7,7 +7,7 @@ This collection includes beginner-friendly console applications built using core
 
 ## 📁 Included Projects
 
-### 1. 🔢 Calculator (Function Overloading)
+### 1. 🔢 Simple Calculator App (Function Overloading)
 A simple calculator that demonstrates function overloading to perform operations with different data types.
 
 **Features:**
@@ -19,7 +19,7 @@ A simple calculator that demonstrates function overloading to perform operations
 
 ---
 
-### 2. 📝 To-Do List Manager
+### 2. 📝 Mini To-Do List Manager
 A command-line to-do list application to add and view tasks. Task data is saved in a text file for persistence.
 
 **Features:**
@@ -32,7 +32,7 @@ A command-line to-do list application to add and view tasks. Task data is saved 
 
 ---
 
-### 3. 🏦 Bank Account Management System
+### 3. 🏦 Mini Bank Account Management System
 A mini project that allows you to create, view, and search bank accounts. Data is stored and retrieved using text file operations.
 
 **Features:**

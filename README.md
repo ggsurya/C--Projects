@@ -1,6 +1,7 @@
 # C++ Projects 🚀
 
-Welcome to my C++ Projects repository!  
+Welcome to my C++ Projects repository!
+
 This collection includes beginner-friendly console applications built using core C++ concepts such as object-oriented programming, file handling, function overloading, and data structures like vectors.
 
 ---
